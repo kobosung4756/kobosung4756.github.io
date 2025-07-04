@@ -317,7 +317,7 @@ defaults:
       path: "_pages"
       type: pages
     values:
-      layout: page
+      layout: home
       permalink: "/:basename/"
       author_profile: true
       read_time: true
