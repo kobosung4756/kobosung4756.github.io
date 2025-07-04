@@ -316,7 +316,7 @@ defaults:
   # _posts
   - scope:
       path: "home.md"
-      type: posts
+      type: pages
     values:
       layout: home
       permalink: /
