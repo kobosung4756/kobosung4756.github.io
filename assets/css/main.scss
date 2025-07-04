@@ -1,0 +1,6 @@
+---
+# Only the main SCSS file needs front matter
+---
+
+@import "minimal-mistakes";  // 원본 테마 스타일 가져오기
+@import "custom";            // 위에서 만든 _custom.scss 오버라이드
