@@ -1,2 +1,4 @@
-mkdir -p assets/css
-touch assets/css/main.scss
+---
+---
+@import "minimal-mistakes";  // remote_theme으로 불러온 테마의 SCSS
+@import "custom";            // 위 _sass/_custom.scss
