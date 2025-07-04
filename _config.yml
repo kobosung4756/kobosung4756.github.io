@@ -109,9 +109,6 @@ analytics:
   google:
     tracking_id          :
     anonymize_ip         : # true, false (default)
-
-header_pages:
-  - /publications/
   
 # Site Author
 author:
