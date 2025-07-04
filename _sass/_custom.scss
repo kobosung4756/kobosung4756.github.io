@@ -1,4 +1,10 @@
+/* _sass/_custom.scss */
+.author-image {
+  border-radius: 0 !important;    /* 래퍼부터 네모로 */
+  overflow: visible !important;   /* 잘리는 영역 없이 보여주기 */
+}
+
 .author-image img,
 .avatar {
-  border-radius: 0 !important;
+  border-radius: 0 !important;    /* 이미지 자체 모서리도 둥글게 남아 있지 않도록 */
 }
