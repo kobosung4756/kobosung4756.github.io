@@ -1,5 +1,5 @@
 ---
-layout: page        # Minimal Mistakes가 제공하는 '홈' 레이아웃
+layout: home        # Minimal Mistakes가 제공하는 '홈' 레이아웃
 title: "Publications"
 permalink: /publications/        # 루트 URL에 매핑
 author_profile: true
