@@ -319,7 +319,7 @@ defaults:
       type: pages
     values:
       layout: home
-      permalink: "/"basename/"
+      permalink: "/:basename/"
       author_profile: true
       read_time: true
       comments: # true
