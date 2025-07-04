@@ -8,4 +8,4 @@ comments: true
 share: true
 related: true
 ---
-여기에 **Markdown** 형식으로 글이나 위젯(프로필, 최신 포스트 등)을 자유롭게 작성하세요.  
+여기에 **Markdown** 형식으로 home을 자유롭게 작성하세요.  
