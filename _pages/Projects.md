@@ -4,6 +4,8 @@ title: "Project Overview"
 permalink: /projects/        # 루트 URL에 매핑
 author_profile: true
 classes: wide
+show_date: true
+date: 2025-07-06
 ---
 (Jan. 2022 - Jan. 2024)
 Development of Unmanned Systems for Indoor Search in Fire Scenes by **KARI**.
