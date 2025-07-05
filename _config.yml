@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Bo Sung Ko"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : Member of iNCSL # site tagline that appears below site title in masthead
 name                     : "Bo Sung Ko"
 description              : #"An amazing website."
 url                      : "https://kobosung4756.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -118,12 +118,12 @@ author:
   location         : "Seoul, Republic of Korea"
   # email            : "kobosung4756@sju.ac.kr"
   links:
-    - label: "Member of iNCSL"
-      icon: "fas fa-fw fa-link"
-      url: "https://sites.google.com/view/incsl/home"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:kobosung4756@sju.ac.kr" # url: "mailto:your.name@email.com"
+    - label: "iNCSL"
+      icon: "fas fa-fw fa-link"
+      url: "https://sites.google.com/view/incsl/home"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
