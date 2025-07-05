@@ -121,7 +121,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:kobosung4756@sju.ac.kr" # url: "mailto:your.name@email.com"
-    - label: "Website"
+    - label: "Member of iNCSL"
       icon: "fas fa-fw fa-link"
       url: "https://sites.google.com/view/incsl/home"
     - label: "Twitter"
