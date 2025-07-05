@@ -7,50 +7,50 @@ classes: wide
 ---
 (Jan. 2022 - Jan. 2024)
 Development of Unmanned Systems for Indoor Search in Fire Scenes by **KARI**.
-```
-contents
-```
+
+> contents
+
 
 ---
 (Jan. 2022 - Jan. 2024) 
 Study on underwater target tracking supported by **LIG Nex1**.
-```
-contents
-```
+
+> contents
+
 
 ---
 (Jan. 2022 - Jan. 2024) Study on navigation system for CIWS (Close-in Weapon system) by **Microinfinity** and **LIG Nex1**.
-```
-contents
-```
+
+> contents
+
 
 ---
 (Jan. 2022 - Jan. 2024) Study on underwater vehicles navigation system based on VDM (vehicle dynamic model) supported by **ADD**.
-```
-contents
-```
+
+> contents
+
 
 ---
 (Jan. 2022 - Jan. 2024) Perception and Sensors Research Group for Core Technology Research Program for Unmanned Systems: Development of sensor fusion technique for unmanned systems supported by **NRF**.
-```
-contents
-```
+
+> contents
+
 
 ---
 (Jan. 2022 - Jan. 2024) Study on Tactical Communication System based-on Moving AP supported by **KRIT**.
-```
-contents
-```
+
+> contents
+
 
 ---
 (Jan. 2022 - Jan. 2024) Navigation System Research Group for Core Technology Research Program for Unmanned Systems: Development of Indoor and Outdoor Integrated Navigation Technology for Operating in Unknown and Harsh Environments supported by **NRF**.
-```
-contents
-```
+
+> contents
+
 
 ---
 (Jan. 2022 - Jan. 2024) Study on Model Based Navigation for Tactical Submarine supported by **ADD**.
-```
-contents
-```
+
+> contents
+
 ---
