@@ -11,7 +11,7 @@ contents
 ```
 
 ---
-**(Highlight)** **B. S. Ko**, J. H. Lee, H. V. Do, Y. H. Kim, and J. W. Song, "[INS/Multi-Positioning Sensor-based Fault Tolerant VTOL Navigation System via 3D Distance Constraints](https://doi.org/10.1109/TAES.2025.3584746)," *IEEE Trans. on Aerospace and Electronic Systems*, 2025.
+<span style='background-color:#fff5b1'>(Highlight)</span> **B. S. Ko**, J. H. Lee, H. V. Do, Y. H. Kim, and J. W. Song, "[INS/Multi-Positioning Sensor-based Fault Tolerant VTOL Navigation System via 3D Distance Constraints](https://doi.org/10.1109/TAES.2025.3584746)," *IEEE Trans. on Aerospace and Electronic Systems*, 2025.
 ```
 contents
 ```
