@@ -6,6 +6,7 @@ author_profile: true
 classes: wide
 show_date: true
 date: 2025-07-06
+share: true
 ---
 ## 📰 Publications
 H. J. Choi, **B. S. Ko**, Min Ho Lee, Yong Hun Kim, and Jin Woo Song, "[UAV/UGV Cooperative Navigation System to Mitigate Uncertainties in Expandable Wireless Infrastructure](https://doi.org/10.5302/J.ICROS.2025.25.0081)," *Journal of Institute of Control, Robotics and Systems*, vol. 31, no. 7, pp. 809-817, 2025.
