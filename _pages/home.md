@@ -25,3 +25,12 @@ Y. H. Kim, **B. S. Ko**, and J. W. Song, "[Magnetic Anomaly-Matched Trajectory a
 H. J. Kim, Y. H. Kim, J. H. Lee, S. J. Park, **B. S. Ko**, and J. W. Song, "[Improving the Accuracy of Vehicle Position in an Urban Environment Using the Outlier Mitigation Algorithm Based on GNSS Multi-Position Clustering](https://www.mdpi.com/2072-4292/15/15/3791)," *Remote Sensing*, vol. 15, no. 15, p. 3791, 2023. 
 
 **B. S. Ko**, Y. H. Kim, J. H. Lee, S. J. Park, S. H. Park, and J. W. Song, "[Vehicle Dynamic Model Based Navigation Algorithm Requirement Analysis for Improving High Precision Inertial Navigation System](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11532645)," *Journal of Institute of Control, Robotics and Systems*, vol. 29, no. 10, pp. 818-825, 2023.
+
+
+
+## Patents
+Domestic patent: [Transfer Alignment for Satellite Payload](https://doi.org/10.8080/1020230158694) 2025-02
+
+Domestic patent: [Navigation System and Method for Position Estimation with Improved Accuracy](https://doi.org/10.8080/1020220101963) 2024-11
+
+
