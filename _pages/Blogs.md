@@ -7,6 +7,6 @@ classes: wide
 ---
 <div class="posts-list grid grid-cols-3 gap-6">
   {% for single in site.posts %}
-    {% include archive-single.html post=post %}
+    {% include archive-single.html post=single %}
   {% endfor %}
 </div>
