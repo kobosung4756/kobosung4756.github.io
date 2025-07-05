@@ -8,7 +8,7 @@ classes: wide
 ## Publications
 H. J. Choi, **B. S. Ko**, Min Ho Lee, Yong Hun Kim, and Jin Woo Song, "[UAV/UGV Cooperative Navigation System to Mitigate Uncertainties in Expandable Wireless Infrastructure](https://doi.org/10.5302/J.ICROS.2025.25.0081)," *Journal of Institute of Control, Robotics and Systems*, vol. 31, no. 7, pp. 809-817, 2025.
 
-<span style='background-color:#fff5b1'>(**Highlight**)</span>  **B. S. Ko**, J. H. Lee, H. V. Do, Y. H. Kim, and J. W. Song, "[INS/Multi-Positioning Sensor-based Fault Tolerant VTOL Navigation System via 3D Distance Constraints](https://doi.org/10.1109/TAES.2025.3584746)," *IEEE Trans. on Aerospace and Electronic Systems*, 2025.
+<span style='background-color:#fff5b1'>(Highlight)</span>  **B. S. Ko**, J. H. Lee, H. V. Do, Y. H. Kim, and J. W. Song, "[INS/Multi-Positioning Sensor-based Fault Tolerant VTOL Navigation System via 3D Distance Constraints](https://doi.org/10.1109/TAES.2025.3584746)," *IEEE Trans. on Aerospace and Electronic Systems*, 2025.
 
 **B. S. Ko**, H. J. Choi, M. J. Jeon, H. J. Cho, and J. W. Song, "[A Study on Improving the Performance of Dynamic Model Based Redundant Navigation System for Sensor Fault Scenarios](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12125031&language=ko_KR&hasTopBanner=true)," *Journal of Institute of Control, Robotics and Systems*, vol. 31, no. 4, pp. 351-359, 2025.
 
