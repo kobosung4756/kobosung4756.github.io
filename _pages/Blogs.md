@@ -4,4 +4,5 @@ title: "Blogs"
 permalink: /blogs/        # 루트 URL에 매핑
 author_profile: true
 classes: wide
+entries_layout: grid
 ---
