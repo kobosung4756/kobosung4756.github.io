@@ -3,10 +3,6 @@ layout: home        # Minimal Mistakes가 제공하는 '홈' 레이아웃
 title: "Publication Abstracts"
 permalink: /publications/        # 루트 URL에 매핑
 author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
 classes: wide
 ---
 H. J. Choi, **B. S. Ko**, Min Ho Lee, Yong Hun Kim, and Jin Woo Song, "[UAV/UGV Cooperative Navigation System to Mitigate Uncertainties in Expandable Wireless Infrastructure](https://doi.org/10.5302/J.ICROS.2025.25.0081)," *Journal of Institute of Control, Robotics and Systems*, vol. 31, no. 7, pp. 809-817, 2025.
