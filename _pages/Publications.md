@@ -25,7 +25,9 @@ H. J. Choi, **B. S. Ko**, Min Ho Lee, Yong Hun Kim, and Jin Woo Song, "[UAV/UGV 
 > contents
 <p align="center">
 <img src="/assets/images/vdm1.jpg" height="400px" width="400px"> <img src="/assets/images/vdm3.jpg" height="400px" width="400px">
-<img src="/assets/images/vdm4.jpg" height="400px" width="400px"> <img src="/assets/images/vdm2.jpg" height="250px" width="250px"> 
+</p>  
+<p align="center">
+<img src="/assets/images/vdm4.jpg" height="400px" width="400px"> 　　 <img src="/assets/images/vdm2.jpg" height="250px" width="250px"> 
 </p>
 
 ---
