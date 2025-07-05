@@ -62,4 +62,6 @@ H. J. Kim, Y. H. Kim, J. H. Lee, S. J. Park, **B. S. Ko**, and J. W. Song, "[Imp
 **B. S. Ko**, Y. H. Kim, J. H. Lee, S. J. Park, S. H. Park, and J. W. Song, "[Vehicle Dynamic Model Based Navigation Algorithm Requirement Analysis for Improving High Precision Inertial Navigation System](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11532645)," *Journal of Institute of Control, Robotics and Systems*, vol. 29, no. 10, pp. 818-825, 2023.
 
 > contents
-
+<p align="center">
+<img src="/assets/images/hdu1.jpg" height="400px" width="400px"> <img src="/assets/images/hdu2.jpg" height="400px" width="400px">
+</p>
