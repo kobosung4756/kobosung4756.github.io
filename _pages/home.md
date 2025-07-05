@@ -37,11 +37,11 @@ H. J. Kim, Y. H. Kim, J. H. Lee, S. J. Park, **B. S. Ko**, and J. W. Song, "[Imp
 
 - Navigation System Research Group for Core Technology Research Program for Unmanned Systems: Development of Indoor and Outdoor Integrated Navigation Technology for Operating in Unknown and Harsh Environments supported by **NRF**.
 
-- Study on Model Based Navigation for Tactical Submarine supported by **ADD**
+- Study on Model Based Navigation for Tactical Submarine supported by **ADD**.
 
 ## Patents
-Domestic: [Transfer Alignment for Satellite Payload](https://doi.org/10.8080/1020230158694), 2025-02
+Domestic: [Transfer Alignment for Satellite Payload](https://doi.org/10.8080/1020230158694), 2025-02.
 
-Domestic: [Navigation System and Method for Position Estimation with Improved Accuracy](https://doi.org/10.8080/1020220101963), 2024-11
+Domestic: [Navigation System and Method for Position Estimation with Improved Accuracy](https://doi.org/10.8080/1020220101963), 2024-11.
 
 
