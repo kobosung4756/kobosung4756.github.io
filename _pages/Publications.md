@@ -12,9 +12,10 @@ contents
 
 ---
 <span style='background-color:#fff5b1'>(Highlight)</span> **B. S. Ko**, J. H. Lee, H. V. Do, Y. H. Kim, and J. W. Song, "[INS/Multi-Positioning Sensor-based Fault Tolerant VTOL Navigation System via 3D Distance Constraints](https://doi.org/10.1109/TAES.2025.3584746)," *IEEE Trans. on Aerospace and Electronic Systems*, 2025.
-
-<img src="/assets/images/taes1.jpg", height="100x", width="100px">
-
+<p align="center">
+<img src="/assets/images/taes2.jpg" height="400px" width="400px"> <img src="/assets/images/taes4.jpg" height="350px" width="350px">
+<img src="/assets/images/taes1.jpg" height="400px" width="400px"> <img src="/assets/images/taes6.jpg" height="600px" width="600px">
+</p>
 ---
 **B. S. Ko**, H. J. Choi, M. J. Jeon, H. J. Cho, and J. W. Song, "[A Study on Improving the Performance of Dynamic Model Based Redundant Navigation System for Sensor Fault Scenarios](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12125031&language=ko_KR&hasTopBanner=true)," *Journal of Institute of Control, Robotics and Systems*, vol. 31, no. 4, pp. 351-359, 2025.
 ```
