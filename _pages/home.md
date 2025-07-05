@@ -5,7 +5,7 @@ permalink: /        # 루트 URL에 매핑
 author_profile: true
 classes: wide
 ---
-## :newspaper: Publications
+## 📰 Publications
 H. J. Choi, **B. S. Ko**, Min Ho Lee, Yong Hun Kim, and Jin Woo Song, "[UAV/UGV Cooperative Navigation System to Mitigate Uncertainties in Expandable Wireless Infrastructure](https://doi.org/10.5302/J.ICROS.2025.25.0081)," *Journal of Institute of Control, Robotics and Systems*, vol. 31, no. 7, pp. 809-817, 2025.
 
 <span style='background-color:#fff5b1'>(Highlight)</span>  **B. S. Ko**, J. H. Lee, H. V. Do, Y. H. Kim, and J. W. Song, "[INS/Multi-Positioning Sensor-based Fault Tolerant VTOL Navigation System via 3D Distance Constraints](https://doi.org/10.1109/TAES.2025.3584746)," *IEEE Trans. on Aerospace and Electronic Systems*, 2025.
@@ -22,7 +22,7 @@ H. J. Kim, Y. H. Kim, J. H. Lee, S. J. Park, **B. S. Ko**, and J. W. Song, "[Imp
 
 **B. S. Ko**, Y. H. Kim, J. H. Lee, S. J. Park, S. H. Park, and J. W. Song, "[Vehicle Dynamic Model Based Navigation Algorithm Requirement Analysis for Improving High Precision Inertial Navigation System](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11532645)," *Journal of Institute of Control, Robotics and Systems*, vol. 29, no. 10, pp. 818-825, 2023.
 
-## :microscope: Projects
+## 🔬 Projects
 - Development of Unmanned Systems for Indoor Search in Fire Scenes by **KARI**.
 
 - Study on underwater target tracking supported by **LIG Nex1**.
@@ -39,7 +39,7 @@ H. J. Kim, Y. H. Kim, J. H. Lee, S. J. Park, **B. S. Ko**, and J. W. Song, "[Imp
 
 - Study on Model Based Navigation for Tactical Submarine supported by **ADD**.
 
-## :bulb: Patents
+## 💡 Patents
 Domestic: [Transfer Alignment for Satellite Payload](https://doi.org/10.8080/1020230158694), 2025-02.
 
 Domestic: [Navigation System and Method for Position Estimation with Improved Accuracy](https://doi.org/10.8080/1020220101963), 2024-11.
