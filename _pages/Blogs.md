@@ -6,7 +6,7 @@ entries_layout: list
 classes: wide
 ---
 <div class="posts-list grid grid-cols-3 gap-6">
-  {% for post in site.posts %}
+  {% for single in site.posts %}
     {% include archive-single.html post=post %}
   {% endfor %}
 </div>
