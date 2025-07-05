@@ -1,6 +1,6 @@
 ---
 layout: home        # Minimal Mistakes가 제공하는 '홈' 레이아웃
-title: "Welcome"
+title: "Curriculum Vitae"
 permalink: /        # 루트 URL에 매핑
 author_profile: true
 classes: wide
