@@ -16,6 +16,7 @@ contents
 <img src="/assets/images/taes2.jpg" height="400px" width="400px"> <img src="/assets/images/taes4.jpg" height="350px" width="350px">
 <img src="/assets/images/taes1.jpg" height="400px" width="400px"> <img src="/assets/images/taes6.jpg" height="600px" width="600px">
 </p>
+
 ---
 **B. S. Ko**, H. J. Choi, M. J. Jeon, H. J. Cho, and J. W. Song, "[A Study on Improving the Performance of Dynamic Model Based Redundant Navigation System for Sensor Fault Scenarios](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12125031&language=ko_KR&hasTopBanner=true)," *Journal of Institute of Control, Robotics and Systems*, vol. 31, no. 4, pp. 351-359, 2025.
 ```
