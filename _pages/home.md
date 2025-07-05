@@ -29,8 +29,8 @@ H. J. Kim, Y. H. Kim, J. H. Lee, S. J. Park, **B. S. Ko**, and J. W. Song, "[Imp
 
 
 ## Patents
-Domestic patent: [Transfer Alignment for Satellite Payload](https://doi.org/10.8080/1020230158694), 2025-02
+Domestic: [Transfer Alignment for Satellite Payload](https://doi.org/10.8080/1020230158694), 2025-02
 
-Domestic patent: [Navigation System and Method for Position Estimation with Improved Accuracy](https://doi.org/10.8080/1020220101963), 2024-11
+Domestic: [Navigation System and Method for Position Estimation with Improved Accuracy](https://doi.org/10.8080/1020220101963), 2024-11
 
 
