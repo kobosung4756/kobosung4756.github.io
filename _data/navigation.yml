@@ -4,9 +4,9 @@ main:
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: https://kobosung4756.github.io/
-  #- title: "Projects"
-  #  url: /year-archive/
   - title: "Publications"
     url: /publications/
+  - title: "Projects"
+    url: /projects/
   # - title: "Sitemap"
   #   url: /sitemap/
