@@ -1,5 +1,5 @@
 ---
-layout: archive        # Minimal Mistakes가 제공하는 '홈' 레이아웃
+layout: single        # Minimal Mistakes가 제공하는 '홈' 레이아웃
 title: "Publication Abstracts"
 permalink: /publications/        # 루트 URL에 매핑
 author_profile: true
