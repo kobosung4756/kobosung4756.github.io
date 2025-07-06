@@ -324,3 +324,4 @@ defaults:
       show_date: true
       share: true
       related: true
+      tag: "N/A"
