@@ -1,7 +1,6 @@
 ---
 layout: posts
-title: "YouTube 영상1"
-tag: video
+title: "YouTube 영상3"
 header:
   teaser: "https://img.youtube.com/vi/kWLed8o5M2Y/maxresdefault.jpg"
 ---
