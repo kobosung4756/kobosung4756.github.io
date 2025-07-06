@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: "YouTube 영상3"
 tags: [video, AI]
 header:
