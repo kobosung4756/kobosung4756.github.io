@@ -325,11 +325,3 @@ defaults:
       comments: true
       share: true
       related: true
-  - scope:
-      path: "Blogs.md"    # ← 여기
-      type: pages
-    values:
-      layout: archive
-      entries_layout: grid
-      pagination:
-        enabled: true
