@@ -1,5 +1,5 @@
 ---
-layout: collection
+layout: tags
 title: "Blogs"
 permalink: /blogs/
 collection: posts
