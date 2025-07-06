@@ -319,6 +319,7 @@ defaults:
       path: ""
       type: posts
     values:
+      layout: single
       comments: true
       show_date: true
       share: true
