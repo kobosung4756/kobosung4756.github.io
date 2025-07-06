@@ -4,7 +4,7 @@ title: "Blogs"
 permalink: /blogs/
 collection: posts
 classes: wide
-entries_layout: line
+entries_layout: grid
 pagination:
   enabled: true
 ---
