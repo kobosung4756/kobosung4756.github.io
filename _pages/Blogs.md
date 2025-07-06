@@ -2,6 +2,7 @@
 layout: archive       
 title: "Blogs"
 permalink: /blogs/
+entries_layout: list
 pagination:
   enabled: true 
 ---
