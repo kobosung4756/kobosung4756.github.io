@@ -8,7 +8,8 @@ show_date: true
 date: 2025-07-06
 ---
 **(Apr. 2025 - Dec. 2028)**
-Development of Unmanned Systems for Indoor Search in Fire Scenes by **KARI**.
+
+<center> Development of Unmanned Systems for Indoor Search in Fire Scenes by **KARI**. </center>
 
 > contents
 <p align="center">
