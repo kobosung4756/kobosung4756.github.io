@@ -113,7 +113,7 @@ analytics:
 # Site Author
 author:
   name             : "Bo Sung Ko"
-  avatar           : "/assets/images/bio-photo2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ph.D. Student <br> Sejong University"
   location         : "Seoul, Republic of Korea"
   # email            : "kobosung4756@sju.ac.kr"
