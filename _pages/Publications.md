@@ -36,6 +36,12 @@ H. J. Choi, **B. S. Ko**, Min Ho Lee, Yong Hun Kim, and Jin Woo Song, "[UAV/UGV 
 J. H. Lee, Y. H. Kim, E. J. Kim, **B. S. Ko**, M. H. Lee, J. W. Song, "[Development of Data Fusion Signal Processing Algorithms for LiDAR, RADAR, and Stereo Camera Sensors](https://www.ion.org/publications/abstract.cfm?articleID=19533)," In *Proceedings of the 2024 International Technical Meeting of The Institute of Navigation*, Long Beach, California, pp. 1064-1073, January 2024.
 
 > contents
+<p align="center">
+<img src="/assets/images/tm3.jpg" height="800px" width="800px">
+</p>  
+<p align="center">
+<img src="/assets/images/tm2.jpg" height="400px" width="400px"> 　　 <img src="/assets/images/tm4.jpg" height="300px" width="300px"> 
+</p>
 
 
 ---
