@@ -10,7 +10,12 @@ date: 2025-07-06
 H. J. Choi, **B. S. Ko**, Min Ho Lee, Yong Hun Kim, and Jin Woo Song, "[UAV/UGV Cooperative Navigation System to Mitigate Uncertainties in Expandable Wireless Infrastructure](https://doi.org/10.5302/J.ICROS.2025.25.0081)," *Journal of Institute of Control, Robotics and Systems*, vol. 31, no. 7, pp. 809-817, 2025.
 
 > contents
-
+<p align="center">
+<img src="/assets/images/hjchoi0.jpg" height="400px" width="400px"> 　 <img src="/assets/images/hjchoi1.jpg" height="300px" width="300px">
+</p>  
+<p align="center">
+<img src="/assets/images/hjchoi2.jpg" height="800px" width="800px">
+</p>
 
 ---
 <span style='background-color:#fff5b1'>(Highlight)</span> **B. S. Ko**, J. H. Lee, H. V. Do, Y. H. Kim, and J. W. Song, "[INS/Multi-Positioning Sensor-based Fault Tolerant VTOL Navigation System via 3D Distance Constraints](https://doi.org/10.1109/TAES.2025.3584746)," *IEEE Trans. on Aerospace and Electronic Systems*, 2025.
@@ -48,7 +53,12 @@ J. H. Lee, Y. H. Kim, E. J. Kim, **B. S. Ko**, M. H. Lee, J. W. Song, "[Developm
 Y. H. Kim, J. H. Lee, **B. S. Ko**, K. W. Seo, E. J. Kim, and J. W. Song, "[Multi-Sampling-Based Distribution Simulation for Nonlinear Measurement Error Mitigation](https://www.ion.org/publications/abstract.cfm?articleID=19569)," In *Proceedings of the 2024 International Technical Meeting of The Institute of Navigation*, Long Beach, California, pp. 1158-1168, January 2024. 
 
 > contents
-
+<p align="center">
+<img src="/assets/images/yhkim1.jpg" height="300px" width="300px"> 　 <img src="/assets/images/yhkim3.jpg" height="400px" width="400px">
+</p>  
+<p align="center">
+<img src="/assets/images/yhkim2.jpg" height="280px" width="280px"> 　 <img src="/assets/images/yhkim0.jpg" height="400px" width="400px">
+</p>
 
 ---
 Y. H. Kim, **B. S. Ko**, and J. W. Song, "[Magnetic Anomaly-Matched Trajectory and Dead Reckoning Fusion Mobile Robot Navigation](https://alife-robotics.co.jp/members2023/icarob/data/html/data/POS/POS.pdf)," *ICAROB 2023*, Kobe, Japan, pp. 1000-1004, February 2023.
