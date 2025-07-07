@@ -7,18 +7,19 @@ classes: [wide, text-justify]
 show_date: true
 date: 2025-07-06
 ---
-**(Apr. 2025 - Dec. 2028)**
+<center> Development of Unmanned Systems for Indoor Search in Fire Scenes by <strong>KARI</strong>. </center>
 
-<center> Development of Unmanned Systems for Indoor Search in Fire Scenes by **KARI**. </center>
-
+<center>2025.04 ~ 2028.12</center>
+  
 > contents
 <p align="center">
 <img src="/assets/images/prj_kari1.jpg" height="700px" width="700px">
 </p>  
 
 ---
-**(Jul. 2023 - Jun. 2025)**
-Study on underwater target tracking supported by **LIG Nex1**.
+<center>Study on underwater target tracking supported by <strong>LIG Nex1</strong>.</center>
+
+<center>2023.07 ~ 2025.06</center>
 
 > contents
 <p align="center">
@@ -26,7 +27,9 @@ Study on underwater target tracking supported by **LIG Nex1**.
 </p>  
 
 ---
-**(Aug. 2024 - Mar. 2026)** Study on navigation system for CIWS (Close-in Weapon system) by **Microinfinity** and **LIG Nex1**.
+<center>Study on navigation system for CIWS (Close-in Weapon system) by <strong>Microinfinity</strong> and <strong>LIG Nex1</strong>.</center>
+
+<center>2024.08 ~ 2026.05</center>
 
 > contents
 <p align="center">
@@ -34,7 +37,9 @@ Study on underwater target tracking supported by **LIG Nex1**.
 </p>  
 
 ---
-**(Jul. 2023 - Jun. 2025)** Study on underwater vehicles navigation system based on VDM (vehicle dynamic model) supported by **ADD**.
+<center>Study on underwater vehicles navigation system based on VDM (vehicle dynamic model) supported by <strong>ADD</strong>.</center>
+
+<center>2023.07 ~ 2025.06</center>
 
 > contents
 <p align="center">
@@ -42,7 +47,9 @@ Study on underwater target tracking supported by **LIG Nex1**.
 </p>  
 
 ---
-**(Jun. 2023 - Aug. 2027)** Perception and Sensors Research Group for Core Technology Research Program for Unmanned Systems: Development of sensor fusion technique for unmanned systems supported by **NRF**.
+<center>Perception and Sensors Research Group for Core Technology Research Program for Unmanned Systems: Development of sensor fusion technique for unmanned systems supported by <strong>NRF</strong>.</center>
+
+<center>2023.06 ~ 2027.08</center>
 
 > contents
 <p align="center">
@@ -50,7 +57,9 @@ Study on underwater target tracking supported by **LIG Nex1**.
 </p>  
 
 ---
-**(Dec. 2022 - Nov. 2026)** Study on Tactical Communication System based-on Moving AP supported by **KRIT**.
+<center>Study on Tactical Communication System based-on Moving AP supported by <strong>KRIT</strong>.</center>
+
+<center>2022.12 ~ 2026.11</center>
 
 > contents
 <p align="center">
@@ -58,7 +67,9 @@ Study on underwater target tracking supported by **LIG Nex1**.
 </p>
 
 ---
-**(Jun. 2020 - May. 2024)** Navigation System Research Group for Core Technology Research Program for Unmanned Systems: Development of Indoor and Outdoor Integrated Navigation Technology for Operating in Unknown and Harsh Environments supported by **NRF**.
+<center>Navigation System Research Group for Core Technology Research Program for Unmanned Systems: Development of Indoor and Outdoor Integrated Navigation Technology for Operating in Unknown and Harsh Environments supported by <strong>NRF</strong>.</center>
+
+<center>2020.06 ~ 2024.05</center>
 
 > contents
 <p align="center">
@@ -66,7 +77,9 @@ Study on underwater target tracking supported by **LIG Nex1**.
 </p>
 
 ---
-**(Jul. 2022 - Jun. 2024)** Study on Model Based Navigation for Tactical Submarine supported by **ADD**.
+<center>Study on Model Based Navigation for Tactical Submarine supported by <strong>ADD</strong>.</center>
+
+<center>2022.07 ~ 2024.06</center>
 
 > contents
 
