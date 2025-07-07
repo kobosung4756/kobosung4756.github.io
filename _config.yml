@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Bo Sung Ko"
 title_separator          : "-"
-subtitle                 : Intelligent Navigation and Control Systems Laboratory (iNCSL) # site tagline that appears below site title in masthead
+subtitle                 : # Intelligent Navigation and Control Systems Laboratory (iNCSL) # site tagline that appears below site title in masthead
 name                     : "Bo Sung Ko"
 description              : #"An amazing website."
 url                      : "https://kobosung4756.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
