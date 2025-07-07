@@ -7,7 +7,7 @@ classes: [wide, text-justify]
 show_date: true
 date: 2025-07-06
 ---
-<center> <p style="margin-bottom: 2em;">Development of Unmanned Systems for Indoor Search in Fire Scenes by <strong>KARI</strong>.</p></center>
+<center> <p style="margin-bottom: 0.6em;">Development of Unmanned Systems for Indoor Search in Fire Scenes by <strong>KARI</strong>.</p></center>
 
 <center>2025.04 ~ 2028.12</center>
   
@@ -17,7 +17,7 @@ date: 2025-07-06
 </p>  
 
 ---
-<center><p style="margin-bottom: 2em;">Study on underwater target tracking supported by <strong>LIG Nex1</strong>.</p></center>
+<center><p style="margin-bottom: 0.6em;">Study on underwater target tracking supported by <strong>LIG Nex1</strong>.</p></center>
 
 <center>2023.07 ~ 2025.06</center>
 
@@ -27,7 +27,7 @@ date: 2025-07-06
 </p>  
 
 ---
-<center><p style="margin-bottom: 2em;">Study on navigation system for CIWS (Close-in Weapon system) by <strong>Microinfinity</strong> and <strong>LIG Nex1</strong>.</p></center>
+<center><p style="margin-bottom: 0.6em;">Study on navigation system for CIWS (Close-in Weapon system) by <strong>Microinfinity</strong> and <strong>LIG Nex1</strong>.</p></center>
   
 <center>2024.08 ~ 2026.05</center>
 
@@ -37,7 +37,7 @@ date: 2025-07-06
 </p>  
 
 ---
-<center><p style="margin-bottom: 2em;">Study on underwater vehicles navigation system based on VDM (vehicle dynamic model) supported by <strong>ADD</strong>.</p></center>
+<center><p style="margin-bottom: 0.6em;">Study on underwater vehicles navigation system based on VDM (vehicle dynamic model) supported by <strong>ADD</strong>.</p></center>
 
 <center>2023.07 ~ 2025.06</center>
 
@@ -47,7 +47,7 @@ date: 2025-07-06
 </p>  
 
 ---
-<center><p style="margin-bottom: 2em;">Perception and Sensors Research Group for Core Technology Research Program for Unmanned Systems: Development of sensor fusion technique for unmanned systems supported by <strong>NRF</strong>.</p></center>
+<center><p style="margin-bottom: 0.6em;">Perception and Sensors Research Group for Core Technology Research Program for Unmanned Systems: Development of sensor fusion technique for unmanned systems supported by <strong>NRF</strong>.</p></center>
 
 <center>2023.06 ~ 2027.08</center>
 
@@ -57,7 +57,7 @@ date: 2025-07-06
 </p>  
 
 ---
-<center><p style="margin-bottom: 2em;">Study on Tactical Communication System based-on Moving AP supported by <strong>KRIT</strong>.</p></center>
+<center><p style="margin-bottom: 0.6em;">Study on Tactical Communication System based-on Moving AP supported by <strong>KRIT</strong>.</p></center>
 
 <center>2022.12 ~ 2026.11</center>
 
@@ -67,7 +67,7 @@ date: 2025-07-06
 </p>
 
 ---
-<center><p style="margin-bottom: 2em;">Navigation System Research Group for Core Technology Research Program for Unmanned Systems: Development of Indoor and Outdoor Integrated Navigation Technology for Operating in Unknown and Harsh Environments supported by <strong>NRF</strong>.</p></center>
+<center><p style="margin-bottom: 0.6em;">Navigation System Research Group for Core Technology Research Program for Unmanned Systems: Development of Indoor and Outdoor Integrated Navigation Technology for Operating in Unknown and Harsh Environments supported by <strong>NRF</strong>.</p></center>
 
 <center>2020.06 ~ 2024.05</center>
 
@@ -77,8 +77,8 @@ date: 2025-07-06
 </p>
 
 ---
-<center><p style="margin-bottom: 2em;">Study on Model Based Navigation for Tactical Submarine supported by <strong>ADD</strong>.</p></center>
-<br>
+<center><p style="margin-bottom: 0.6em;">Study on Model Based Navigation for Tactical Submarine supported by <strong>ADD</strong>.</p></center>
+
 <center>2022.07 ~ 2024.06</center>
 
 > contents
