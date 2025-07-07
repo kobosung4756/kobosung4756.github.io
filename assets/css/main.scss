@@ -2,7 +2,6 @@
 ---
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";  // remote_theme으로 불러온 테마의 SCSS
-@import "custom-partial";            // 위 _sass/_custom.scss
 
 .user-avatar img,
 .avatar-wrap img {
