@@ -114,7 +114,7 @@ analytics:
 author:
   name             : "Bo Sung Ko"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "received the B.S. degree in aerospace engineering, and the dual M.S. degree in intelligent mechatronics engineering and convergence major for intelligent drones from Sejong University, Seoul, Republic of Korea, in 2022 and 2024, respectively. He is currently the Ph.D. student in the department of convergence engineering for artificial intelligence and the department of convergence major for intelligent drones at Sejong University. <br/> He is currently a member of Artificial Intelligence and Robotics Institute. His research interests include artificial intelligence, precision navigation, fault tolerant systems, and sensor fusion."
+  bio              : "Ph.D. Student <br> Sejong University"
   location         : "Seoul, Republic of Korea"
   # email            : "kobosung4756@sju.ac.kr"
   links:
