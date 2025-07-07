@@ -1,7 +1,7 @@
 ---
 layout: tags
-title: "Blogs"
-permalink: /blogs/
+title: "Blog"
+permalink: /blog/
 collection: posts
 classes: [wide, text-justify]
 author_profile: true
