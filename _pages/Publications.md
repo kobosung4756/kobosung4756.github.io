@@ -7,7 +7,7 @@ classes: [wide, text-justify]
 show_date: true
 date: 2025-07-06
 ---
-H. J. Choi, **B. S. Ko**, M. H. Lee, Y. H. Kim, and J. W. Song, "[UAV/UGV Cooperative Navigation System to Mitigate Uncertainties in Expandable Wireless Infrastructure](https://doi.org/10.5302/J.ICROS.2025.25.0081)," *Journal of Institute of Control, Robotics and Systems*, vol. 31, no. 7, pp. 809-817, 2025.
+H. J. Choi, **B. S. Ko**, M. H. Lee, Y. H. Kim, and J. W. Song, "[UAV/UGV Cooperative Navigation System to Mitigate Uncertainties in Expandable Wireless Infrastructure](https://doi.org/10.5302/J.ICROS.2025.25.0081){: style="text-decoration: none;"}," *Journal of Institute of Control, Robotics and Systems*, vol. 31, no. 7, pp. 809-817, 2025.
 
 > contents
 <p align="center">
