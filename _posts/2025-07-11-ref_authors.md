@@ -1,5 +1,5 @@
 ---
-title: "Note: Authors in related field"
+title: "Authors in related field"
 header:
   teaser: "/assets/images/grad_thumbnail2.jpg"
   teaser_size: contain
