@@ -6,8 +6,10 @@ header:
 date: 2025-07-11
 tags: [note]
 ---
-[Carl Vondrick](http://www.cs.columbia.edu/~vondrick/)
+👤 [Carl Vondrick](http://www.cs.columbia.edu/~vondrick/)
 
-[Jonathan P. How](https://acl.mit.edu/publications#top)
+👤 [Jonathan P. How](https://acl.mit.edu/publications#top)
 
-[Davide Scaramuzza](https://rpg.ifi.uzh.ch/publications.html)
+👤 [Davide Scaramuzza](https://rpg.ifi.uzh.ch/publications.html)
+
+👤 [Ayoung Kim](https://rpm.snu.ac.kr/)
