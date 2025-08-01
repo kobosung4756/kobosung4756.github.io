@@ -5,7 +5,7 @@ permalink: /        # 루트 URL에 매핑
 author_profile: true
 classes: [wide, text-justify]
 show_date: true
-date: 2025-07-06
+date: 2025-08-01
 ---
 Welcome! I am a Ph.D. student in the Department of Convergence Engineering for Artificial Intelligence and Department of Convergence Major for Intelligent Drones, Sejong University, [iNCSL](https://sites.google.com/view/incsl/home){: style="text-decoration: none;"} (Advisor: Prof. Jin Woo Song).
 ## 🎯 Research interests
@@ -14,6 +14,8 @@ Welcome! I am a Ph.D. student in the Department of Convergence Engineering for A
 - Fault tolerant systems.
 
 ## 📰 Publications
+M. H. Lee, J. H. Lee, K. W. Seo, **B. S. Ko**, and J. W. Song, "[Infrastructure-less UWB-based Navigation via Radar Dead Reckoning for Harsh Indoor Environments Application](){: style="text-decoration: none;"}," In *2024 24th International Conference on Control, Automation and Systems (ICCAS)*, 2025.
+
 H. J. Choi, **B. S. Ko**, M. H. Lee, Y. H. Kim, and J. W. Song, "[UAV/UGV Cooperative Navigation System to Mitigate Uncertainties in Expandable Wireless Infrastructure](https://doi.org/10.5302/J.ICROS.2025.25.0081){: style="text-decoration: none;"}," *Journal of Institute of Control, Robotics and Systems*, vol. 31, no. 7, pp. 809-817, 2025.
 
 <span style='background-color:#fff5b1'>(Highlight)</span>  **B. S. Ko**, J. H. Lee, H. V. Do, Y. H. Kim, and J. W. Song, "[INS/Multi-Positioning Sensor-based Fault Tolerant VTOL Navigation System via 3D Distance Constraints](https://doi.org/10.1109/TAES.2025.3584746){: style="text-decoration: none;"}," *IEEE Trans. on Aerospace and Electronic Systems*, 2025.
