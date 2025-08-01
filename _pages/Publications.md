@@ -7,7 +7,7 @@ classes: [wide, text-justify]
 show_date: true
 date: 2025-08-01
 ---
-M. H. Lee, J. H. Lee, K. W. Seo, **B. S. Ko**, and J. W. Song, "[Infrastructure-less UWB-based Navigation via Radar Dead Reckoning for Harsh Indoor Environments Application](){: style="text-decoration: none;"}," In *2024 24th International Conference on Control, Automation and Systems (ICCAS)*, 2025.
+M. H. Lee, J. H. Lee, K. W. Seo, **B. S. Ko**, and J. W. Song, "[Infrastructure-less UWB-based Navigation via Radar Dead Reckoning for Harsh Indoor Environments Application](){: style="text-decoration: none;"}," In *2025 25th International Conference on Control, Automation and Systems (ICCAS)*, 2025.
 
 > contents
 <p align="center">
