@@ -7,6 +7,17 @@ classes: [wide, text-justify]
 show_date: true
 date: 2025-07-06
 ---
+M. H. Lee, J. H. Lee, K. W. Seo, **B. S. Ko**, and J. W. Song, "[Infrastructure-less UWB-based Navigation via Radar Dead Reckoning for Harsh Indoor Environments Application](){: style="text-decoration: none;"}," In *2024 24th International Conference on Control, Automation and Systems (ICCAS)*, 2025.
+
+> contents
+<p align="center">
+<img src="/assets/images/iccas1.jpg" height="600px" width="600px"> 　 
+</p>  
+<p align="center">
+<img src="/assets/images/iccas2.jpg" height="300px" width="300px"> <img src="/assets/images/iccas3.jpg" height="370px" width="370px">
+</p>
+
+---
 H. J. Choi, **B. S. Ko**, M. H. Lee, Y. H. Kim, and J. W. Song, "[UAV/UGV Cooperative Navigation System to Mitigate Uncertainties in Expandable Wireless Infrastructure](https://doi.org/10.5302/J.ICROS.2025.25.0081){: style="text-decoration: none;"}," *Journal of Institute of Control, Robotics and Systems*, vol. 31, no. 7, pp. 809-817, 2025.
 
 > contents
