@@ -4,7 +4,7 @@ header:
   teaser: "/assets/images/grad_thumbnail2.jpg"
   teaser_size: contain
 date: 2025-07-11
-tags: [note]
+tags: [Note]
 ---
 👤 [Carl Vondrick](http://www.cs.columbia.edu/~vondrick/)
 
