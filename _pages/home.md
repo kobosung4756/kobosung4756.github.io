@@ -11,6 +11,7 @@ Welcome! I am a Ph.D. student in the Department of Convergence Engineering for A
 ## 🎯 Research interests
 - Sensor fusion and navigation systems.
 - NN-assisted machine learning, continual learning, online learning.
+- Time series data forecasting.
 - Fault tolerant systems.
 
 ## 📰 Publications
