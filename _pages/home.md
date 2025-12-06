@@ -9,10 +9,9 @@ date: 2025-08-01
 ---
 Welcome! I am a Ph.D. candidate in the Department of Convergence Engineering for Artificial Intelligence and the Department of Convergence Major for Intelligent Drones, Sejong University, [iNCSL](https://sites.google.com/view/incsl/home){: style="text-decoration: none;"} (Advisor: Prof. Jin Woo Song).
 ## 🎯 Research interests
-- Sensor fusion and navigation systems.
-- NN-assisted machine learning, time series data forecasting, continual learning.
-- Explainable artificial intelligence
-- Fault tolerant systems.
+- Sensor fusion, navigation systems, fault tolerant systems.
+- NN-assisted machine learning, time series data forecasting.
+- Explainable artificial intelligence, continual learning.
 
 ## 📰 Publications
 M. H. Lee, J. H. Lee, K. W. Seo, **B. S. Ko**, and J. W. Song, "[Infrastructure-less UWB-based Navigation via Radar Dead Reckoning for Harsh Indoor Environments Application](){: style="text-decoration: none;"}," In *2025 25th International Conference on Control, Automation and Systems (ICCAS)*, 2025.
