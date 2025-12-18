@@ -15,7 +15,7 @@ Welcome! I am a Ph.D. candidate in the Department of Convergence Engineering for
 
 ## 📰 Publications
 ### International
-- (Accepted) J. H. Lee, Y. H. Kim, H. V. Do, **B. S. Ko**, and J. W. Song, "[Real-time Smoothing Filter based on Constraints for Backward Filtering](){: style="text-decoration: none;"}," *Measurement*, 2025.
+- (Accepted) J. H. Lee, Y. H. Kim, H. V. Do, **B. S. Ko**, and J. W. Song, "[Real-time Smoothing Filter based on Constraints for Backward Filtering](https://doi.org/10.1016/j.measurement.2025.120013){: style="text-decoration: none;"}," *Measurement*, 2025.
 
 - M. H. Lee, J. H. Lee, K. W. Seo, **B. S. Ko**, and J. W. Song, "[Infrastructure-less UWB-based Navigation via Radar Dead Reckoning for Harsh Indoor Environments Application](){: style="text-decoration: none;"}," In *2025 25th International Conference on Control, Automation and Systems (ICCAS)*, 2025.
 
